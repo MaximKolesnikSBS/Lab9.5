@@ -41,7 +41,7 @@ public:
 int TriarnTree::Count;
 int main() {
 	TriarnTree::Count = 0;
-	TriarnTree obj1(4);
+	TriarnTree obj1(3);
 	TriarnTree *p;
 	p = new TriarnTree(3);
 	delete p;
